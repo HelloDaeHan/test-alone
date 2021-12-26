@@ -5,4 +5,8 @@ public class A {
 	protected int b = 2;
 	int c = 3;
 	private int d = 4;
+	
+	void print() {
+		System.out.println(a);
+	}
 }
